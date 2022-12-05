@@ -1,0 +1,5 @@
+('c:\\users\\leoni\\appdata\\local\\programs\\python\\python310\\lib\\site-packages\\typing_extensions-4.3.0-py3.10.egg',
+ None,
+ {'*.py', '*.pyd', 'EGG-INFO', '*.cp310-win_amd64.pyd', '*.pyw', '*.pyc'},
+ 'DATA',
+ [])
